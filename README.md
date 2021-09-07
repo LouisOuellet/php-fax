@@ -1,4 +1,4 @@
-# PHP FAX
+# PHP FAX[DEV]
 PHP application to send faxes.
 
 ## Content
